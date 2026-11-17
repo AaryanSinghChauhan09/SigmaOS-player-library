@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-player-library"
-description = "SigmaOS subsystem component for player-library"
+description = "Media playlist / metadata library"
 version = "0.1.0"
 tier = 5
 
